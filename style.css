@@ -56,7 +56,8 @@ ul {
 
 .search {
   width: 40vw;
-  padding: 1px;
+  padding: 5px;
+  padding-left:20px;
   border: 1px solid #d9d9d9;
   border-radius: 50px;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
